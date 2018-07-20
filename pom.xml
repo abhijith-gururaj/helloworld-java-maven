@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-releases</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>8cbfa5d1ddea</id>
+        <name>8cbfa5d1ddea-releases</name>
+        <url>http://10.76.118.78:8085/artifactory/testrepo</url>
     </repository>
     <snapshotRepository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-snapshots</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>8cbfa5d1ddea</id>
+        <name>8cbfa5d1ddea-snapshots</name>
+        <url>http://10.76.118.78:8085/artifactory/testrepo</url>
     </snapshotRepository>
 </distributionManagement>
 
